@@ -577,7 +577,7 @@ class plot {
             }
           }
 
-          if (data[i] === this.noDataValue) {
+          if (data[i] === this.noDataValue || (isNaN(this.noDataValue) && isNaN(data[i]))) {
             alpha = 0;
           }
 
