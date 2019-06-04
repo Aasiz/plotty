@@ -1,3 +1,4 @@
+Fork of  santilland's plotty with support for NaN as nodata values.
 
 plotty
 ======
