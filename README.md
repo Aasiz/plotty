@@ -1,7 +1,8 @@
-Fork of  santilland's plotty with support for NaN as nodata values.
+
 
 plotty
 ======
+Fork of  santilland's plotty with support for NaN as nodata values.
 
 plotty is a library for helping plot 2D data and provide color scaling
 functionality. Put your array data in it and receive a fresh image.
